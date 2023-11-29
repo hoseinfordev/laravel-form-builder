@@ -2,6 +2,7 @@
 The laravel form builder code generator
  
 **_The generated form can be use in `CREATE FORM` and `EDIT FORM` together._**
+
  
 ## supported frameworks
 - Bootstrap 3.x, 4.x, 5.x
